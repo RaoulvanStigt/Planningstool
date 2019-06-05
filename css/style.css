@@ -1,0 +1,28 @@
+body {
+	background-color: lightgrey;
+}
+
+.container {
+  background-color: white;
+  width: 75%;
+  margin: 0 auto;
+}
+
+img {
+	width: 250px;
+}
+
+.imageTitle {
+  display: inline-grid;
+  width: 24%;
+  text-align: center;
+}
+
+.wijzigen {
+  display: inline-block;
+}
+
+.geplandGame {
+	display: inline-block;
+	width: 200px;
+}
